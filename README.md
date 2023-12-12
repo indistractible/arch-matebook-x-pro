@@ -306,7 +306,7 @@ later.
 
 Install and setup etckeeper
 ```
-# pacman -S etckeeper
+# pacman -S vi etckeeper
 # cd /etc
 # etckeeper init
 # etckeeper commit
