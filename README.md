@@ -596,7 +596,7 @@ and it sounded horrible.
 
 First I installed these packages
 
-`# pacman -S alsa-utils pulseaudio pulseaudio-alsa alsa-tools pavucontrol pulsemixer`
+`# pacman -S alsa-utils pulseaudio pulseaudio-alsa alsa-tools pavucontrol pulsemixer pulseaudio-bluetooth`
 
 Then followed instructions at the bottom of [Ayman Bagabas Blog](https://aymanbagabas.com/2018/07/23/archlinux-on-matebook-x-pro.html)
 
